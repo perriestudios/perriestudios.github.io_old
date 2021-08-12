@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+nav_order: 4
 ---
 
 Welcome to my personal blog. I am eccentric engineer.

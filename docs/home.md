@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Home
-permalink: /home/
+nav_order: 2
 ---
 
 Hello World!
