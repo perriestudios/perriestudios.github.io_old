@@ -12,11 +12,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-<<<<<<< HEAD
 gem "github-pages", "~> 217", group: :jekyll_plugins
-=======
- gem "github-pages", "~> 217", group: :jekyll_plugins
->>>>>>> f985b8e68b1b53856973b2ea612085ac5b9836bf
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
