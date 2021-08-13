@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Blog
-permalink: /about/
+permalink: /blog/
 nav_order: 2
 ---
 
 My experience, my thoughts in my own words for you.
+Check the below sections.
