@@ -5,7 +5,6 @@ permalink: /minimal-design-atmega328p/
 parent: Electronics
 grand_parent: Blog
 nav_order: 1
-has_children: false
 ---
 
 ## Minimal Circuit Design for interfacing an ATmega328P microcontroller
