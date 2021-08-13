@@ -3,6 +3,7 @@ layout: page
 title: Minimal Microcontroller Circuit Design - ATmega328P
 permalink: /minimal-design-atmega328p/
 parent: Electronics
+grand_parent: Blog
 nav_order: 1
 has_children: false
 ---
