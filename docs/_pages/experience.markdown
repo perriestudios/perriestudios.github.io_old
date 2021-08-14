@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Experience
+permalink: /experience/
 nav_order: 3
 has_children: true
 ---
