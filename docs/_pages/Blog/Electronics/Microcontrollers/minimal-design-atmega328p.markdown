@@ -13,7 +13,13 @@ nav_order: 1
 
 Today, it is so easy to get started with Embedded Systems Development. Thanks to the Arduino ecosystem, students or just about anyone for that matter, can bring their ideas to life with ease using an off-the shelf development board. Simplistic hardware design & programming environment, great community & codebase, and the ease of deploying the code make Arduino an awesome platform.
 
+</div>
+
+<div style="text-align: justify">
+
 I started my journey into the world of Embedded Systems with the modest Arduino Uno too. If you're interested in learning how to get a microcontroller up and running, once again Arduino is the best place to begin. In my opinion, the presence of a development board can help correlate the function of each pin on the microcontroller intuitively.
+
+</div>
 
 In fact, building the Arduino on a breadboard is simple too. Here are a couple of references from the Arduino website: [Building an Arduino on a Breadboard](https://www.arduino.cc/en/main/standalone) and [From Arduino to a Microcontroller on a Breadboard](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard).
 
