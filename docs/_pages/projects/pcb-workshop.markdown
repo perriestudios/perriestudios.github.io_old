@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PCB Design, Assembly and Fabrication Workshop
+title: PCB Design, Fabrication and Assembly Workshop
 permalink: /projects/pcb-workshop/
 parent: Projects
 nav_order: 6
