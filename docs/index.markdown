@@ -9,6 +9,8 @@ nav_order: 1
 
 Hello there! Welcome to my personal website. I am an electronics engineer interested in all things electronics from high level circuit design to nanoscale device modelling. Besides electronics, I am interested in startups, product development, cricket and comedy. I am also interested in tech in general and regularly explore other domains to enrich my thoughts and also derive ideas and inputs from those areas.
 
+I started this blog mainly to log all my experience and ideas. I am a huge fan of Bunnie Huang and his work. He has a blog called [bunnie:studios](https://www.bunniestudios.com/blog/) which is why I named my blog perrie:studios. Perrie was derived from my nickname 'Perry the Platypus' aka Agent P.
+
 ## My Principles
 
 Here are the top 10 principles I consider the most important. I try my best to apply these to my daily life and become a better person. The order in which they are listed is immaterial as I feel irrespective of what number they are assigned on this page, each principle is as valuable to the development of an individual's character as the other.
